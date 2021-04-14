@@ -1,0 +1,6 @@
+C:\Users\HP\source\repos\ConsumerTP1MathService\bin\Debug\ConsumerTP1MathService.exe.config
+C:\Users\HP\source\repos\ConsumerTP1MathService\bin\Debug\ConsumerTP1MathService.exe
+C:\Users\HP\source\repos\ConsumerTP1MathService\bin\Debug\ConsumerTP1MathService.pdb
+C:\Users\HP\source\repos\ConsumerTP1MathService\obj\Debug\ConsumerTP1MathService.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ConsumerTP1MathService\obj\Debug\ConsumerTP1MathService.exe
+C:\Users\HP\source\repos\ConsumerTP1MathService\obj\Debug\ConsumerTP1MathService.pdb
